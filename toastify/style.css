@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+    height: 50%;
+    border: 2px solid black;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
